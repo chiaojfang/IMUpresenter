@@ -1,2 +1,2 @@
 # Simple Remote Presenter
-This is an working prototype of a wireless simple presentation pointer (clicker) using an internal IMU.
+This is an working prototype of a simple wireless presentation pointer (clicker) using an internal IMU.
