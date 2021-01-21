@@ -5,8 +5,8 @@ Since it only runs with an internal IMU, the tracking might not
 be precise enough and it may lag a little.
 
 ## Hardware Setup
-The microcontroller controller used is __ESP-12F__. 
-Additional components are an IMU sensor __GY-521__
+The microcontroller controller used is _ESP-12F_. 
+Additional components are an IMU sensor _GY-521_
 and a button.
 The microcontroller connects to the computer via WiFi. 
 
@@ -22,10 +22,10 @@ The default WiFi name is _Pointer_ and password _thisIsMyPointer_.
 
 ## Modes
 The presenter has three modes:
-- __mouse__ the cursor moves along with the remote presenter and 
+- _mouse_ the cursor moves along with the remote presenter and 
 left clicks when the button is pressed.
-- __pointer__ cursor moves only when button is pressed.
-- __presentation__ only goes to next page (left clicks) when 
+- _pointer_ cursor moves only when button is pressed.
+- _presentation_ only goes to next page (left clicks) when 
 button is pressed.
 
 ## Dependencies
